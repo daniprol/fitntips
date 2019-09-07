@@ -1,4 +1,4 @@
-baseURL = "http://fitntips.com"
+baseURL = "https://www.fitntips.com"
 languageCode = "es-ES"
 title = "Fit & Tips"
 theme = "parsa-hugo"
