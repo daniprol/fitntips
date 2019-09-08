@@ -5,6 +5,9 @@ theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
 
+# In case you want to deploy in another folder
+#publishDir = "docs"
+
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
   page = ["HTML"]
