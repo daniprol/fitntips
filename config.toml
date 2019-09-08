@@ -96,29 +96,33 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
   [params.footer]
 
     #address
-    [[params.footer.addresses]]
-    address = "Sydney"
+    #[[params.footer.addresses]]
+    #address = "Sydney"
     
-    [[params.footer.addresses]]
-    address = "6 rip carl Avenue CA 90733"
+    #[[params.footer.addresses]]
+    #address = "6 rip carl Avenue CA 90733"
 
     
     #contact information
-    [[params.footer.contacts]]
-    contactInfo = "Tel: +90 000 333 22"
+    #[[params.footer.contacts]]
+    #contactInfo = "Tel: +90 000 333 22"
     
     [[params.footer.contacts]]
-    contactInfo = "Mail: exmaple@ymail.com"
+    contactInfo = "E-mail: contacto@fitntips.com"
 
 
   # social site
   [[params.social]]
   icon = "ti-facebook"
-  URL = "#"
+  URL = "https://www.facebook.com/Fit-Tips-110602226983444/"
   
   [[params.social]]
+  icon = "ti-instagram"
+  URL = "https://www.instagram.com/fitandtipsweb/"
+
+  [[params.social]]
   icon = "ti-twitter-alt"
-  URL = "#"
+  URL = "https://twitter.com/fitandtips"
   
   [[params.social]]
   icon = "ti-linkedin"
