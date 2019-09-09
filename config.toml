@@ -1,4 +1,4 @@
-baseURL = "https://fitntips.netlify.com/"
+baseURL = "/"
 languageCode = "es-ES"
 title = "Fit & Tips"
 theme = "parsa-hugo"
