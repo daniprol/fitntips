@@ -4,7 +4,7 @@ subtitle: "Reducir barriga, perder esos quilos de más, deshacerte de la celulit
 date: 2019-09-01T22:41:21+02:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/post2.png"
+image: "images/featured-post/post2.jpg"
 categories: 
   - "Cardiovascular"
 tags:

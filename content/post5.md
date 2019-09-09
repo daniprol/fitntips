@@ -4,7 +4,7 @@ subtitle: "¿Sueñas con tener ese vientre plano que siempre has deseado? Comien
 date: 2019-09-02T21:38:42+02:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/post5.png"
+image: "images/featured-post/post5.jpg"
 categories: 
   - "Musculación"
 tags:

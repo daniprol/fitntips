@@ -4,7 +4,7 @@ subtitle: "Desde fuera puede parecer que este estilo de vida es propio de person
 date: 2019-09-01T18:29:31+02:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/post1.png"
+image: "images/featured-post/post1.jpg"
 categories: 
   - "Lifestyle"
 tags:

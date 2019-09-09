@@ -4,7 +4,7 @@ subtitle: "Sólo cinco ejercicios, nada de materiales y 30 minutos al día. Cons
 date: 2019-09-01T23:08:03+02:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/post3.png"
+image: "images/featured-post/post3.jpg"
 categories: 
   - "Musculación"
 tags:

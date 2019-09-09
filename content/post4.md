@@ -4,7 +4,7 @@ subtitle: "¿Quieres conseguir un vientre plano pero por más abdominales que ha
 date: 2019-09-01T23:35:38+02:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/post4.png"
+image: "images/featured-post/post4.jpg"
 categories: 
   - "Tips"
 tags:
@@ -34,7 +34,7 @@ Si bien la genética juega un papel importante a la hora de poder presumir de ci
 
 - **Realiza ejercicios abdominales:** fortalecer la zona abdominal es clave para, a la vez que reduces cintura, esta se vea fuerte y combatir la flacidez. Los abdominales hipopresivos y las planchas son algunas de las variantes de abdominales que mejor te funcionarán. Trabajarlos con concentración durante 15 minutos al menos tres veces por semana será [suficiente]({{< ref "post5.md" >}}), y además te ayudará mejorando tu salud postural.
 
-![](../images/post4_1.png)
+![](../images/post4_1.jpg)
 
 - **Incluye ejercicio cardiovascular en tu rutina:** perder grasa es imprescindible para que nuestra cintura se vea más estrecha y nuestro vientre más plano. Para ello es necesario quemar calorías realizando ejercicios cardiovasculares que te ayuden a generar un déficit calórico y tiren de esa reserva de grasa acumulada. Consulta los mejores ejercicios [para quemar calorías aquí]({{< ref "post2.md" >}}).
 

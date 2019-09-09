@@ -4,7 +4,7 @@ subtitle: "¡No esperes a que llegue el verano! Siguiendo estos tips lograrás d
 date: 2019-09-03T00:28:02+02:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/post6.png"
+image: "images/featured-post/post6.jpg"
 categories: 
   - "Tips"
 tags:
