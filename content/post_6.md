@@ -25,3 +25,4 @@ El **nutricionista Víctor Reyes** publica en la web PowerExplosive un artículo
 El nutricionista apunta que si realizamos ejercicio tras haber ingerido el combustible necesario a través de la ingesta de alimentos (concretamente hidratos de carbono), nuestro cuerpo podrá trabajar con mayor intensidad, aumentando así el gasto calórico durante y post entrenamiento. En este sentido, apunta al entrenamiento HIIT como el más efectivo en cuanto a gasto calórico se refiere.
 
 No obstante, teniendo en cuenta el ritmo frenético del mundo en el que vivimos, debemos tener presente que **el mejor momento para realizar ejercicio es el que mejor encaje con nuestra rutina diaria**. Si tu horario laboral te permite ir al gimnasio tras haber comido, genial. Pero, si por lo contrario realizar 30-40 minutos de carrera continua a ritmo moderado (por ejemplo) nada más levantarte te ayuda a encajar mejor tu ejercicio diario, el cardio en ayuno es tu opción más acertada.
+<br>
