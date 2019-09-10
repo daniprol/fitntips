@@ -80,6 +80,9 @@ contactFormAction = "#"
 googleAnalitycsID = "UA-147386954-1"
 # copyright
 copyright = "a theme by [themefisher.com](themefisher.com)"
+#Prueba sharing buttons
+sharing = true
+
 
   # Preloader
   [params.preloader]
