@@ -40,4 +40,5 @@ Estos ejercicios son efectivos por si solos, pero también puedes combinarlos co
 
 Tonificando tus glúteos **mejorarás además el aspecto de la celulitis** tan odiada. No obstante, por si solos no conseguirán erradicarla. Mantener una dieta sana, realizar ejercicio cardiovascular como correr, caminar o andar en bici, y realizar masajes aplicando alguna crema o aceite reductor te ayudarán a mejorar el aspecto de tu piel.
 
-¿Preparado para ir a por los glúteos que siempre has soñado? 
+<p style="text-align: center;"> <font size="+1">¿Preparado para ir a por los glúteos que siempre has soñado? </font></p>
+<br/>

@@ -36,4 +36,3 @@ Existen muchos tipos de ejercicios funcionales con diferentes niveles de dificul
 {{< youtube TY2G2iI6V8M >}}
 {{< youtube VFQxrA5GmTs >}}
 {{< youtube XsDJr-qDoG4 >}}
-<br/>

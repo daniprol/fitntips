@@ -41,3 +41,4 @@ Si bien la genética juega un papel importante a la hora de poder presumir de ci
 Debes tener en cuenta que trabajar todos los grupos musculares de tu cuerpo también te ayudará a **fortalecer tu zona abdominal**. Y es que, cuando realizamos cualquier tipo de ejercicio – como sentadillas, elevaciones de caderas, trabajo de brazos, hombros, espalda, rutinas de pilates…- debemos mantener nuestra postura, y para ello es clave mantener el core (abdominales) en tensión.
 
 Sigue todos estos consejos y **en pocas semanas podrás ver los resultados**. ¡Empieza a trabajar tu vientre desde hoy y estarás un día más cerca de conseguir tu objetivo!
+<br>

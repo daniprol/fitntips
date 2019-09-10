@@ -30,11 +30,12 @@
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{.Content}}
         </article>
+        {{ partial "share.html" . }}
       </div>
       {{partial "sidebar.html" . }}
     </div>
+    <br/>
   </div>
 </section>
 <!-- /blog single -->
-
 {{ end }}

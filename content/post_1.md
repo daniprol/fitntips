@@ -47,5 +47,3 @@ En esta dieta es muy importante consumir **solo piña al natural o en su jugo**.
 Si tienes hambre entre horas, siempre **puedes echar mano de infusiones**. Hoy en día hay una gran variedad que además aportarán múltiples beneficios a tu organismo. También puedes optar por **beber un zumo de piña** elaborado por ti mismo en casa. Para ello solo tendrás que dejar a hervir en agua la corteza de la piña y luego colar el líquido resultante.
 
 Es importante que **no excedas más de tres días realizando esta dieta** ya que las carencias nutricionales podrían tener efectos secundarios negativos. Es importante mantener una dieta variada, sana y equilibrada, que aporte todos los nutrientes que necesita nuestro organismo para realizar su actividad diaria. Además, recuerda que **para mantener los resultados de esta dieta deberás mantener unos hábitos saludables** para evitar el temido “efecto rebote”. Como siempre decimos, no hay fórmulas mágicas y **la constancia es la clave**.
-
-<br/>

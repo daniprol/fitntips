@@ -41,4 +41,4 @@ En cualquier caso, **trabajar tus lumbares y tu espalda** te ayudará a prevenir
 
 
 <p style="text-align: center;"> <font size="+2">¿Listo para conseguir un abdomen de infarto?</font></p>
-<br/><br/>
+<br/>
