@@ -9,8 +9,8 @@
 {{ $body := print $title ", by " .Site.Title "\n" .Params.description "\n\n" $url "\n" }} -->
 
 {{ $url := "https://www.facebook.com/sharer.php?u={url}&t={title}" }}
-{{ $link := replace $url "{url}" (.Permalink | htmlEscape) }}
-{{ $link = replace $link "{title}" (.Title | htmlEscape) }}
+{{ $link := replace $url "{url}" ($.Permalink | htmlEscape) }}
+{{ $link = replace $link "{title}" ($.Title | htmlEscape) }}
 
 <!-- Sharingbutton Facebook -->
 <a class="resp-sharing-button__link" href="{{$link|safeURL}}" target="_blank" rel="noopener" aria-label="">
