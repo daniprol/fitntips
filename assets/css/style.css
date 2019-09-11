@@ -1145,7 +1145,7 @@ background-color: #FF6600
  *  Sharing
  **************************************************/
 
-.share-box {
+/* .share-box {
   float: right;
 }
 
@@ -1191,5 +1191,42 @@ ul.share li a {
 }
 
 ul.share li:hover i {
+  transform: scale(1.4)
+} */
+
+/* Sharing */
+ul.share {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ ul.share li {
+  display: inline-flex;
+  margin-right: 5px;
+}
+ ul.share li:last-of-type {
+  margin-right: 0;
+}
+ ul.share li .fab {
+  display: block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 20px;
+  text-align: center;
+  transition: all 150ms ease-in-out;
+  color: #fff;
+}
+ ul.share li a {
+  background-color: #b5c6ce;
+  display: block;
+  border-radius: 50%;
+  text-decoration: none !important;
+  margin: 0;
+}
+ ul.share li:hover .fab {
   transform: scale(1.4)
 }

@@ -82,7 +82,8 @@ googleAnalitycsID = "UA-147386954-1"
 copyright = "a theme by [themefisher.com](themefisher.com)"
 #Prueba sharing buttons
 sharing = true
-
+socialShare = true
+twitter = "fitandtips"
 
   # Preloader
   [params.preloader]
