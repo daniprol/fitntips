@@ -1230,3 +1230,51 @@ ul.share {
  ul.share li:hover .fab {
   transform: scale(1.4)
 }
+
+.fa-whatsapp {
+  background-color: #1DA851;
+  display: block;
+  border-radius: 50%;
+  text-decoration: none !important;
+  margin: 0;
+}
+
+.fa-twitter {
+  background-color: #1DA1F2;
+  display: block;
+  border-radius: 50%;
+  text-decoration: none !important;
+  margin: 0;
+}
+
+.fa-facebook {
+  background-color: #3b5998;
+  display: block;
+  border-radius: 50%;
+  text-decoration: none !important;
+  margin: 0;
+}
+
+.fa-pinterest {
+  background-color: #bd081c;
+  display: block;
+  border-radius: 50%;
+  text-decoration: none !important;
+  margin: 0;
+}
+
+.fa-linkedin {
+  background-color: #0077b5;
+  display: block;
+  border-radius: 50%;
+  text-decoration: none !important;
+  margin: 0;
+}
+
+.fa-reddit {
+  background-color: #ff4500;
+  display: block;
+  border-radius: 50%;
+  text-decoration: none !important;
+  margin: 0;
+}
