@@ -9,7 +9,7 @@
 {{ $body := print $title ", by " .Site.Title "\n" .Params.description "\n\n" $url "\n" }} -->
 
 {{ $url := "https://www.facebook.com/sharer.php?u={url}&t={title}" }}
-{{ $link := replace $url "{url}" ($.Permalink | htmlEscape) }}
+{{ $link := replace $url "{url}" ($.Page.URL | htmlEscape) }}
 {{ $link = replace $link "{title}" ($.Title | htmlEscape) }}
 
 <!-- Sharingbutton Facebook -->
@@ -20,7 +20,7 @@
   </div>
 </a>
 {{ $url := "https://twitter.com/intent/tweet?url={url}&text={title}" }}
-{{ $link := replace $url "{url}" (.Permalink | htmlEscape) }}
+{{ $link := replace $url "{url}" ($.Page.URL | htmlEscape) }}
 {{ $link = replace $link "{title}" (.Title | htmlEscape) }}
 
 <!-- Sharingbutton Twitter -->
