@@ -20,7 +20,7 @@
       <div class="col-lg-8">
         <ul class="list-inline d-flex justify-content-between py-3">
           <!-- {{ partial "share-buttons.html" . }} -->
-          {{ partial "share.html" . }}
+          {{ partial "shareold.html" . }}
           <!-- Poner autor en el post-->
           <!-- <li class="list-inline-item"><i class="ti-user mr-2"></i>Post by {{.Site.Params.author}}</li> --> 
           <li class="list-inline-item"></li>
@@ -30,7 +30,7 @@
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{.Content}}
         </article>
-        {{ partial "share.html" . }}
+        {{ partial "shareold.html" . }}
       </div>
       {{partial "sidebar.html" . }}
     </div>
