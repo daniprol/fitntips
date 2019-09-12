@@ -77,7 +77,7 @@ shortDescription = "I’m a Freelance Interactive Art Director based in France. 
 # Contact Form Action
 contactFormAction = "#"
 # Google Analitycs
-googleAnalitycsID = "UA-147386954-1"
+#googleAnalitycsID = "UA-147386954-1"
 # copyright
 copyright = "a theme by [themefisher.com](themefisher.com)"
 #Prueba sharing buttons
@@ -95,7 +95,7 @@ twitter = "fitandtips"
 
   # Instagram feed
   [params.instafeed]
-  enable = false
+  enable = true
   userID = "19137003749"
   accessToken = "19137003749.591efdb.0745965ca9fc47c181b8d33056cb5494"
 
