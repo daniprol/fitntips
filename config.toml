@@ -95,7 +95,7 @@ twitter = "fitandtips"
 
   # Instagram feed
   [params.instafeed]
-  enable = true
+  enable = false
   userID = "19137003749"
   accessToken = "19137003749.591efdb.0745965ca9fc47c181b8d33056cb5494"
 
