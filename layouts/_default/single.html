@@ -30,6 +30,7 @@
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{.Content}}
           {{ .Permalink | absLangURL }}
+          {{ .Title }}
         </article>
         {{ partial "share-links.html" . }}
       </div>

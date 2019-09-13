@@ -1,6 +1,10 @@
 <head>
   <meta charset="utf-8">
-  <title>{{ .Site.Title }}</title>
+  {{ if .IsHome -}}
+    <title>{{ .Site.Title }}</title>
+  {{- else -}}
+    <title>{{ .Title }} </title>
+  {{- end }}
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,5 +39,6 @@
   <!-- relURL funciona con /images/ cuando hay /public/-->
   <!-- {{ template "_internal/google_analytics_async.html" . }} -->
   <!-- {{- partial "seo/main.html" . }} -->
-  {{- partial "hugo_seo.html" . }}
+  <!-- {{- partial "hugo_seo.html" . }} -->
+
 </head>
